@@ -12,9 +12,7 @@ O objetivo foi aprender e aplicar os conceitos básicos de HTML e CSS na prátic
 Planejo aprimorar esse projeto no futuro, aplicando novas técnicas e recursos que irei aprender ao longo dos estudos. </p>
 
 ##
-
 <h1> 🚀 Tecnologias Utilizadas </h1>
-
 <ul>
   <li> HTML5</li>
   <li> CSS3</li>
@@ -23,12 +21,11 @@ Planejo aprimorar esse projeto no futuro, aplicando novas técnicas e recursos q
 ##
 
 <h1>📚 Aprendizados </h1>
-
 <p>Durante o desenvolvimento deste projeto, aprendi a:
   <br> <br>
-- **HTML**: Estruturar o site, criar cabeçalho, footer e entender a organização dos arquivos.  
-- **CSS**: Criar variáveis para estilização, formatar os elementos e aplicar conceitos básicos de responsividade.  
-- **Git/GitHub**: Controlar versões do projeto e publicar o site no GitHub.</p>
+- HTML: Estruturar o site, criar cabeçalho, footer e entender a organização dos arquivos.  
+- CSS: Criar variáveis para estilização, formatar os elementos e aplicar conceitos básicos de responsividade.  
+- Git/GitHub: Controlar versões do projeto e publicar o site no GitHub.</p>
 
 ##
 <p> ⭐️ _Esse é apenas o começo da minha jornada como desenvolvedora Front-End!_</p>
