@@ -28,4 +28,8 @@ Planejo aprimorar esse projeto no futuro, aplicando novas técnicas e recursos q
 - Git/GitHub: Controlar versões do projeto e publicar o site no GitHub.</p>
 
 ##
+<h1> 🔗 Acesse o Projeto</h1>
+<p>Clique aqui para ver o projeto publicado: https://portifolio-rho-snowy.vercel.app/</p>
+
+##
 <p> ⭐️ _Esse é apenas o começo da minha jornada como desenvolvedora Front-End!_</p>
