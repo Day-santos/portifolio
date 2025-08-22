@@ -11,6 +11,11 @@ Ele marca o início da minha jornada no desenvolvimento Front-End e representa m
 O objetivo foi aprender e aplicar os conceitos básicos de HTML e CSS na prática, criando um site simples e funcional.  
 Planejo aprimorar esse projeto no futuro, aplicando novas técnicas e recursos que irei aprender ao longo dos estudos. </p>
 
+
+![Imagem do WhatsApp de 2025-08-22 à(s) 15 32 33_474ca480](https://github.com/user-attachments/assets/9a156e72-a9da-494e-9627-a778fbec79e9)
+
+
+
 ##
 <h1> 🚀 Tecnologias Utilizadas </h1>
 <ul>
